@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="AI.LandBase ロゴ" width="160">
+</p>
+
 # 株式会社 AI.LandBase（アイランドベース）
 
 > 沖縄の観光業に、AI という伴走者を。
@@ -45,6 +49,7 @@
 | [AUDIENCE.md](./AUDIENCE.md) | 誰に向けるか（顧客セグメント・読み手） |
 | [STAKEHOLDERS.md](./STAKEHOLDERS.md) | 誰が関わり、どう決めるか（ガバナンス） |
 | [RESEARCH.md](./RESEARCH.md) | 何を調べ、何が分かったか（市場・競合、出典つき） |
+| [DESIGN.md](./DESIGN.md) | 何を見せるか（ロゴ・配色・タイポグラフィ） |
 
 ---
 
