@@ -17,6 +17,15 @@ AI.LandBase のデザインシステム。語り口は [BRAND.md](./BRAND.md)（
 
 原本: [`assets/logo.png`](./assets/logo.png)
 
+### バリアント
+
+| バージョン | ファイル | 備考 |
+|---|---|---|
+| 標準 | [`assets/logo.png`](./assets/logo.png) | 基本ロゴ。README・名刺などで使用 |
+| 沖縄バージョン | [`assets/logo-okinawa.png`](./assets/logo-okinawa.png) | 沖縄本島のシルエットを描き込んだバリエーション |
+
+![沖縄バージョンのロゴ](./assets/logo-okinawa.png)
+
 ### 使い方
 - 余白を十分に取り、回路と波のディテールが潰れないサイズで使う
 - 背景は白〜淡色（Mist）を基本にする。濃色背景に置く場合は単色化版を別途用意する（未作成 → 下記「未確定」）
